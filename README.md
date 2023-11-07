@@ -1,10 +1,12 @@
-# Learn Repo Template
+# Learn Playwright PDF
 
 ## 本リポジトリの目的
-練習用リポジトリを目的や達成目標を持って実施できるようにするため
+Playwright Chromium経由でPDFを生成できるようにする。
 
 ## 本リポジトリの達成目標
-このテンプレートリポジトリを使って練習用リポジトリを作成されるようになる
+- [ ] Playwright ChromiumでPDFを生成する
+- [ ] Honoを使ってREST APIとしてPDFを返せるようにする
+- [ ] Denoで置き換えられるか試す
 
 ## 参考資料
-- 特になし
+- [Page | Playwright](https://playwright.dev/docs/api/class-page#page-pdf)
